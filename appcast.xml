@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Fri, 18 Sep 2026 13:23:11 +0200</pubDate>
+            <sparkle:version>20260918.1313</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Record for later on the iPhone (kept takes transcribed when the Mac is back), connects over a hotspot, History tab redone.</p>
+]]></description>
+            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1313/Mobile-Operator.zip" length="2599641" type="application/octet-stream" sparkle:edSignature="IuKqQKb73Ogw0qMRq/w8qLNwOQesO0oOuymiTTOCeCMhfql5vQAmtZwQSDjZBADmvpU3nFwX7/uuSkiic5szDg=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Fri, 18 Sep 2026 12:47:45 +0200</pubDate>
             <sparkle:version>20260918.1236</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
