@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Sun, 20 Sep 2026 21:20:47 +0200</pubDate>
+            <sparkle:version>20260920.2119</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>dev 20260920.2118, commit 0662e11. Not a release.</p>
+]]></description>
+            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260920-2118/Mobile-Operator.zip" length="2627209" type="application/octet-stream" sparkle:edSignature="iI5GZv0GeKynu9kWePRZvW7/K0KyGLpVj1AT5qd/yCXm7uk3+E9l2VhVbU/qWFciBipcxVBoiTiQ/uGs3t+tDQ=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Sun, 20 Sep 2026 20:14:17 +0200</pubDate>
             <sparkle:version>20260920.2012</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
