@@ -1,5 +1,12 @@
 [
  {
+  "build": "20260920.1321",
+  "commit": "898f51e",
+  "date": "2026-09-20 13:22",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260920-1321/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260920-1321/Mobile-Operator.zip"
+ },
+ {
   "build": "20260920.1256",
   "commit": "5dcd6e4",
   "date": "2026-09-20 12:57",
