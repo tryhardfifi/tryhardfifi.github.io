@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Mon, 21 Sep 2026 06:30:04 +0200</pubDate>
+            <sparkle:version>20260921.0611</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Mobile Operator: bug report, plain labels, Live Activity gone</p>
+]]></description>
+            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260921-0611/Mobile-Operator.zip" length="2695047" type="application/octet-stream" sparkle:edSignature="9gcwtqTKoy7SU6BXpeMlzj9upeIbMl3belL3AoLGNnm5nhMqaOwJ596lhQ6nxAIq98gL93yJTdSwg3lP/rGiDQ=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Sat, 19 Sep 2026 18:47:08 +0200</pubDate>
             <sparkle:version>20260919.1838</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
