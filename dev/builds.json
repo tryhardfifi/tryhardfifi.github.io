@@ -1,16 +1,16 @@
 [
  {
+  "build": "20260921.1823",
+  "commit": "0900f97",
+  "date": "2026-09-21 18:24",
+  "ipa": null,
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260921-1823/Mobile-Operator.zip"
+ },
+ {
   "build": "20260921.1821",
   "commit": "946ddd5",
   "date": "2026-09-21 18:22",
   "ipa": null,
   "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260921-1821/Mobile-Operator.zip"
- },
- {
-  "build": "20260921.1818",
-  "commit": "54f46c9",
-  "date": "2026-09-21 18:19",
-  "ipa": null,
-  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260921-1818/Mobile-Operator.zip"
  }
 ]
