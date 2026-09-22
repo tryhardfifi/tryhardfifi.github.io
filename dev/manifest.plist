@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260922-0857/WhisperProbe.ipa</string>
+					<string>https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260922-0858/WhisperProbe.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.contextsaver.app</string>
 				<key>bundle-version</key>
-				<string>20260922.0857</string>
+				<string>20260922.0858</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
