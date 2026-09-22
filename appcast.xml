@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Tue, 22 Sep 2026 09:57:26 +0200</pubDate>
+            <sparkle:version>20260922.0950</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Transcription through our server, sent while you talk; the Mac key is back (tap to start, tap to stop); haptics; Enter on the slide; history as messages; many fixes.</p>
+]]></description>
+            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260922-0950/Mobile-Operator.zip" length="1629108" type="application/octet-stream" sparkle:edSignature="b6Sxbh3NnZEQCwTXvRqBxi4eLzy+wX84TVgeFG4ZhOX2ocUlRCihGiAWuF5hxRXTOVt6xX6cz3PQtN3sCuz4Dg=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Mon, 21 Sep 2026 06:30:04 +0200</pubDate>
             <sparkle:version>20260921.0611</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
@@ -100,17 +111,6 @@
             <description><![CDATA[<p>Installer image with drag to Applications.</p>
 ]]></description>
             <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1215/Mobile-Operator.zip" length="2575956" type="application/octet-stream" sparkle:edSignature="RHPdrhQ2JExL62x2do2kgc+PZcWyZ1me8lA72qXLaG1DBcCyyfcmhSTNZYx6bh7jsdtxUfsr/drYzpmCCyFGCQ=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Fri, 18 Sep 2026 12:09:00 +0200</pubDate>
-            <sparkle:version>20260918.1205</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Pairing with your iPhone, push to talk on the phone, send with a tap, scrolling and swiping from the phone, automatic updates, long dictations fixed.</p>
-]]></description>
-            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1205/Mobile-Operator.zip" length="2575957" type="application/octet-stream" sparkle:edSignature="ZweGHXP27Cr/hruIvOxyibJsDpwkk85CuJ6Nlbl9oNLWWGS4DtOw1TihPBVfPvN3KXGfuE1N/pOYelTD12OTBg=="/>
         </item>
     </channel>
 </rss>
