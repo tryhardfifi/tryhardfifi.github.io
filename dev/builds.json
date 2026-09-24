@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260924.2244",
+  "commit": "01e9a944",
+  "date": "2026-09-24 22:46",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2244-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v3: the x stays with the circle, a take starts at the dot"
+ },
+ {
   "build": "20260924.2214",
   "commit": "d56f935b",
   "date": "2026-09-24 22:15",
@@ -77,13 +85,6 @@
   "commit": "39a4214c",
   "date": "2026-09-24 12:19",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1327/WhisperProbe.ipa",
-  "zip": null
- },
- {
-  "build": "20260924.1317",
-  "commit": "9e2a8de9",
-  "date": "2026-09-24 12:17",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-211-20260924.1317/WhisperProbe.ipa",
   "zip": null
  }
 ]
