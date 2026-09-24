@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260924.2354",
+  "commit": "eebe2778",
+  "date": "2026-09-24 23:55",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2354-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v4: the magnet on the scroll, throw away without the zoom"
+ },
+ {
   "build": "20260924.2346",
   "commit": "1d496dbe",
   "date": "2026-09-24 23:47",
@@ -80,13 +88,6 @@
   "commit": "e304ee83",
   "date": "2026-09-24 13:53",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1353/WhisperProbe.ipa",
-  "zip": null
- },
- {
-  "build": "20260924.1348",
-  "commit": "3af1daff",
-  "date": "2026-09-24 13:49",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1349/WhisperProbe.ipa",
   "zip": null
  }
 ]
