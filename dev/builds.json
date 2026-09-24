@@ -1,5 +1,12 @@
 [
  {
+  "build": "20260924.1326",
+  "commit": "39a4214c",
+  "date": "2026-09-24 13:27",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1327/WhisperProbe.ipa",
+  "zip": null
+ },
+ {
   "build": "20260924.1317",
   "commit": "9e2a8de9",
   "date": "2026-09-24 13:19",
