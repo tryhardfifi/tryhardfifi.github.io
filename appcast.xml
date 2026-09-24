@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Thu, 24 Sep 2026 18:53:25 +0100</pubDate>
+            <sparkle:version>20260924.1834</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>With nothing focused, it types into the window's one field. And this build's feed is signed, so your Mac updates itself from here on.</p>
+]]></description>
+            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260924-1834/Mobile-Operator.zip" length="3622781" type="application/octet-stream" sparkle:edSignature="NfceZdZVZPFt/JP65FIxSyPpllAESNxIIXtGPH+/+u16NvaXpnCpoonlDOaZDMOEvj8PvekMBXvov5+yoKGdCw=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Tue, 22 Sep 2026 12:49:10 +0200</pubDate>
             <sparkle:version>20260922.1242</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
@@ -100,17 +111,6 @@
             <description><![CDATA[<p>Record for later on the iPhone (kept takes transcribed when the Mac is back), connects over a hotspot, History tab redone.</p>
 ]]></description>
             <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1313/Mobile-Operator.zip" length="2599641" type="application/octet-stream" sparkle:edSignature="IuKqQKb73Ogw0qMRq/w8qLNwOQesO0oOuymiTTOCeCMhfql5vQAmtZwQSDjZBADmvpU3nFwX7/uuSkiic5szDg=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Fri, 18 Sep 2026 12:47:45 +0200</pubDate>
-            <sparkle:version>20260918.1236</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>The first iPhone connects without a question; the setup window no longer blinks while an iPhone waits.</p>
-]]></description>
-            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1236/Mobile-Operator.zip" length="2577028" type="application/octet-stream" sparkle:edSignature="wWVaHbcV89y5aByKxirRt/S/HfTHug69BdiI/K9A9SxuXacE53DWgrxN1TgcUdwXTeYqO+7jDeUH0tbHvexYCA=="/>
         </item>
     </channel>
 </rss>
