@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260924.2346",
+  "commit": "1d496dbe",
+  "date": "2026-09-24 23:47",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2346/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2346/Mobile-Operator.zip",
+  "note": "main: 221 the retry loop fixed, 223 the dot rises into the bar"
+ },
+ {
   "build": "20260924.2253",
   "commit": "aae4fe71",
   "date": "2026-09-24 22:54",
@@ -79,13 +87,6 @@
   "commit": "3af1daff",
   "date": "2026-09-24 13:49",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1349/WhisperProbe.ipa",
-  "zip": null
- },
- {
-  "build": "20260924.1328",
-  "commit": "9e2a8de9",
-  "date": "2026-09-24 12:29",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-211-relabel-133106/WhisperProbe.ipa",
   "zip": null
  }
 ]
