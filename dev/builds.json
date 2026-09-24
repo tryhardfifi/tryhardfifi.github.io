@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0051",
+  "commit": "76ab4d3e",
+  "date": "2026-09-25 00:52",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0051-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v5: magnet both ways, a short feed still reaches the pill, air under the island"
+ },
+ {
   "build": "20260924.2354",
   "commit": "eebe2778",
   "date": "2026-09-24 23:55",
@@ -81,13 +89,6 @@
   "commit": "fb498172",
   "date": "2026-09-24 13:56",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1356/WhisperProbe.ipa",
-  "zip": null
- },
- {
-  "build": "20260924.1352",
-  "commit": "e304ee83",
-  "date": "2026-09-24 13:53",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1353/WhisperProbe.ipa",
   "zip": null
  }
 ]
