@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260924.2253",
+  "commit": "aae4fe71",
+  "date": "2026-09-24 22:54",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2253/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2253/Mobile-Operator.zip",
+  "note": "main 219: History gone, the feed is the list, no skipping the permissions, Contact the founder, MO under the icon"
+ },
+ {
   "build": "20260924.2244",
   "commit": "01e9a944",
   "date": "2026-09-24 22:46",
@@ -78,13 +86,6 @@
   "commit": "9e2a8de9",
   "date": "2026-09-24 12:29",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-211-relabel-133106/WhisperProbe.ipa",
-  "zip": null
- },
- {
-  "build": "20260924.1326",
-  "commit": "39a4214c",
-  "date": "2026-09-24 12:19",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-1327/WhisperProbe.ipa",
   "zip": null
  }
 ]
