@@ -2,9 +2,10 @@
  {
   "build": "20260924.1328",
   "commit": "9e2a8de9",
-  "date": "2026-09-24 13:29",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-211-20260924-132819/WhisperProbe.ipa",
-  "zip": null
+  "date": "2026-09-24 13:31",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-211-relabel-133106/WhisperProbe.ipa",
+  "zip": null,
+  "note": "211: the onboarding, words off the video, button pinned"
  },
  {
   "build": "20260924.1326",
