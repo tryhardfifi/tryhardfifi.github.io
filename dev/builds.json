@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0139",
+  "commit": "d4d95dd9",
+  "date": "2026-09-25 01:40",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0139-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v14: no Done over the keyboard"
+ },
+ {
   "build": "20260925.0131",
   "commit": "11aa1107",
   "date": "2026-09-25 01:32",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2346/WhisperProbe.ipa",
   "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2346/Mobile-Operator.zip",
   "note": "main: 221 the retry loop fixed, 223 the dot rises into the bar"
- },
- {
-  "build": "20260924.2253",
-  "commit": "aae4fe71",
-  "date": "2026-09-24 22:54",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2253/WhisperProbe.ipa",
-  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2253/Mobile-Operator.zip",
-  "note": "main 219: History gone, the feed is the list, no skipping the permissions, Contact the founder, MO under the icon"
  }
 ]
