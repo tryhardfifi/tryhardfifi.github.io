@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0248",
+  "commit": "b42d5d14",
+  "date": "2026-09-25 02:49",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0248-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v18: offline, a take buzzes once and not every five seconds; on main with 221 and 222"
+ },
+ {
   "build": "20260925.0157",
   "commit": "8ca4f69c",
   "date": "2026-09-25 01:57",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0058-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v6: no loop on a tap of the pill, the pull is faster near the pole"
- },
- {
-  "build": "20260925.0051",
-  "commit": "76ab4d3e",
-  "date": "2026-09-25 00:52",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0051-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v5: magnet both ways, a short feed still reaches the pill, air under the island"
  }
 ]
