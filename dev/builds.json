@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0117",
+  "commit": "ae6316f3",
+  "date": "2026-09-25 01:17",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0117-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v10: the pencil in the row with the time"
+ },
+ {
   "build": "20260925.0113",
   "commit": "460b8515",
   "date": "2026-09-25 01:14",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2201-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "animations: the dot is the pill, scroll-driven, no bottom button"
- },
- {
-  "build": "20260924.2116",
-  "commit": "9afd84b0",
-  "date": "2026-09-24 21:17",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2116/WhisperProbe.ipa",
-  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2116/Mobile-Operator.zip",
-  "note": null
  }
 ]
