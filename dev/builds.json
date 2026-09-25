@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0157",
+  "commit": "8ca4f69c",
+  "date": "2026-09-25 01:57",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0157-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v17: a card opening moves no words, every card takes its tap"
+ },
+ {
   "build": "20260925.0143",
   "commit": "b6b42595",
   "date": "2026-09-25 01:44",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0051-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v5: magnet both ways, a short feed still reaches the pill, air under the island"
- },
- {
-  "build": "20260924.2354",
-  "commit": "eebe2778",
-  "date": "2026-09-24 23:55",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2354-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v4: the magnet on the scroll, throw away without the zoom"
  }
 ]
