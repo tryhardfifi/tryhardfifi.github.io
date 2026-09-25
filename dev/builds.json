@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0257",
+  "commit": "2139e8ca",
+  "date": "2026-09-25 02:57",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0257-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v20: a deleted take leaves to the left; select mode ends on record or Settings"
+ },
+ {
   "build": "20260925.0255",
   "commit": "2036a217",
   "date": "2026-09-25 02:56",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0108-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v8: a finished take scrolls nothing, the card is not centred"
- },
- {
-  "build": "20260925.0105",
-  "commit": "53cd8af1",
-  "date": "2026-09-25 01:05",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0105-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v7: a finished take comes back to the dot, never half way"
  }
 ]
