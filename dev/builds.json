@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0255",
+  "commit": "2036a217",
+  "date": "2026-09-25 02:56",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0255-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v19: the dot grows from its centre, smooth; circles in select mode; a swipe never selects"
+ },
+ {
   "build": "20260925.0248",
   "commit": "b42d5d14",
   "date": "2026-09-25 02:49",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0105-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v7: a finished take comes back to the dot, never half way"
- },
- {
-  "build": "20260925.0058",
-  "commit": "22f94df1",
-  "date": "2026-09-25 00:59",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0058-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v6: no loop on a tap of the pill, the pull is faster near the pole"
  }
 ]
