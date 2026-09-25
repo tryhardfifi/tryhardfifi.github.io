@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0130",
+  "commit": "61e86230",
+  "date": "2026-09-25 01:31",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0130-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v12: the pencil focuses lower, the gear is a pill"
+ },
+ {
   "build": "20260925.0122",
   "commit": "824db555",
   "date": "2026-09-25 01:23",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2244-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v3: the x stays with the circle, a take starts at the dot"
- },
- {
-  "build": "20260924.2214",
-  "commit": "d56f935b",
-  "date": "2026-09-24 22:15",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2214-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v2: the circle stays a circle, words never slide"
  }
 ]
