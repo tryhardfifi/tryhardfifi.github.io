@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0300",
+  "commit": "9a76520a",
+  "date": "2026-09-25 03:01",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0300-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v21: a swipe never turns into a hold"
+ },
+ {
   "build": "20260925.0257",
   "commit": "2139e8ca",
   "date": "2026-09-25 02:57",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0113-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v9: one movement when a take starts, none from rest"
- },
- {
-  "build": "20260925.0108",
-  "commit": "991bc126",
-  "date": "2026-09-25 01:08",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0108-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v8: a finished take scrolls nothing, the card is not centred"
  }
 ]
