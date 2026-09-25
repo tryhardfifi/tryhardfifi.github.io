@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.1910",
+  "commit": "068a944b",
+  "date": "2026-09-25 19:10",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-1910/WhisperProbe.ipa",
+  "zip": null,
+  "note": "onboarding: no price line on the speed page"
+ },
+ {
   "build": "20260925.1721",
   "commit": "2e799bda",
   "date": "2026-09-25 17:22",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0122-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v11: the pill higher under the island, no card through the clock"
- },
- {
-  "build": "20260925.0117",
-  "commit": "ae6316f3",
-  "date": "2026-09-25 01:17",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0117-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v10: the pencil in the row with the time"
  }
 ]
