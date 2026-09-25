@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.2046",
+  "commit": "c67621b1",
+  "date": "2026-09-25 20:47",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-2047/WhisperProbe.ipa",
+  "zip": null,
+  "note": "record-outside: Settings > What just happened, the phone's own log on the screen. For the Control Centre button test."
+ },
+ {
   "build": "20260925.1910",
   "commit": "068a944b",
   "date": "2026-09-25 19:10",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0130-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v12: the pencil focuses lower, the gear is a pill"
- },
- {
-  "build": "20260925.0122",
-  "commit": "824db555",
-  "date": "2026-09-25 01:23",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0122-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v11: the pill higher under the island, no card through the clock"
  }
 ]
