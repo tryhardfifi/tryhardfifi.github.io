@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0143",
+  "commit": "b6b42595",
+  "date": "2026-09-25 01:44",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0143-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v15: the dot stays under a held finger, the feed does not scroll"
+ },
+ {
   "build": "20260925.0139",
   "commit": "d4d95dd9",
   "date": "2026-09-25 01:40",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2354-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v4: the magnet on the scroll, throw away without the zoom"
- },
- {
-  "build": "20260924.2346",
-  "commit": "1d496dbe",
-  "date": "2026-09-24 23:47",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2346/WhisperProbe.ipa",
-  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2346/Mobile-Operator.zip",
-  "note": "main: 221 the retry loop fixed, 223 the dot rises into the bar"
  }
 ]
