@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260925.0122",
+  "commit": "824db555",
+  "date": "2026-09-25 01:23",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0122-anim/WhisperProbe.ipa",
+  "zip": null,
+  "note": "chat/animations v11: the pill higher under the island, no card through the clock"
+ },
+ {
   "build": "20260925.0117",
   "commit": "ae6316f3",
   "date": "2026-09-25 01:17",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2214-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v2: the circle stays a circle, words never slide"
- },
- {
-  "build": "20260924.2201",
-  "commit": "e0cc43e6",
-  "date": "2026-09-24 22:02",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260924-2201-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "animations: the dot is the pill, scroll-driven, no bottom button"
  }
 ]
