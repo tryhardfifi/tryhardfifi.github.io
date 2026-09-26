@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.1250",
+  "commit": "a6e4a268",
+  "date": "2026-09-26 12:51",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1251-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.1249",
   "commit": "efe6c95a",
   "date": "2026-09-26 12:49",
@@ -85,14 +93,6 @@
   "commit": "ca5080c0",
   "date": "2026-09-26 02:52",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0252-ro/WhisperProbe.ipa",
-  "zip": null,
-  "note": null
- },
- {
-  "build": "20260926.0235",
-  "commit": "a5ed72d9",
-  "date": "2026-09-26 02:36",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0236-ro/WhisperProbe.ipa",
   "zip": null,
   "note": null
  }
