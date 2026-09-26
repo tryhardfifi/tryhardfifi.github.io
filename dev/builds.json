@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0251",
+  "commit": "ca5080c0",
+  "date": "2026-09-26 02:52",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0252-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.0235",
   "commit": "a5ed72d9",
   "date": "2026-09-26 02:36",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0257-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v20: a deleted take leaves to the left; select mode ends on record or Settings"
- },
- {
-  "build": "20260925.0255",
-  "commit": "2036a217",
-  "date": "2026-09-25 02:56",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0255-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v19: the dot grows from its centre, smooth; circles in select mode; a swipe never selects"
  }
 ]
