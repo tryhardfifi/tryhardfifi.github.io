@@ -1,5 +1,14 @@
 [
  {
+  "build": "20260926.1249",
+  "commit": "efe6c95a",
+  "date": "2026-09-26 12:49",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1249/WhisperProbe.ipa",
+  "zip": null,
+  "note": "onboarding: tap the drawn sheet to get the real prompt, arrow outside the box, rounded button, no double Skip",
+  "branch": "chat/onboarding-fixes"
+ },
+ {
   "build": "20260926.1242",
   "commit": "8296fa8b",
   "date": "2026-09-26 12:43",
@@ -86,13 +95,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0236-ro/WhisperProbe.ipa",
   "zip": null,
   "note": null
- },
- {
-  "build": "20260926.0224",
-  "commit": "544cff3c",
-  "date": "2026-09-26 02:24",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0224/WhisperProbe.ipa",
-  "zip": null,
-  "note": "ux: Enter beside the dot, trash on the other side, the pill down to Type again and Copy"
  }
 ]
