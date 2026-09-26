@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0201",
+  "commit": "41c50d5c",
+  "date": "2026-09-26 02:02",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0202/WhisperProbe.ipa",
+  "zip": null,
+  "note": "record-outside: the Live Activity on brand (black, the red dot, a white Stop). Plus Settings > What just happened."
+ },
+ {
   "build": "20260925.2046",
   "commit": "c67621b1",
   "date": "2026-09-25 20:47",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0131-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v13: the pencil focuses lower, the gear is a round glass button"
- },
- {
-  "build": "20260925.0130",
-  "commit": "61e86230",
-  "date": "2026-09-25 01:31",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0130-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v12: the pencil focuses lower, the gear is a pill"
  }
 ]
