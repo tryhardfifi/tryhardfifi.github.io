@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.1122",
+  "commit": "5cb70a80",
+  "date": "2026-09-26 11:24",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1123-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.0318",
   "commit": "cc07f68d",
   "date": "2026-09-26 03:18",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0206-onb/WhisperProbe.ipa",
   "zip": null,
   "note": "onboarding: gooseneck microphone, and AirDrop to your Mac (Rocco's copy fixes)"
- },
- {
-  "build": "20260926.0201",
-  "commit": "41c50d5c",
-  "date": "2026-09-26 02:02",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0202/WhisperProbe.ipa",
-  "zip": null,
-  "note": "record-outside: the Live Activity on brand (black, the red dot, a white Stop). Plus Settings > What just happened."
  }
 ]
