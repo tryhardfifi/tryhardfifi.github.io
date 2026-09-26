@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0309",
+  "commit": "53944192",
+  "date": "2026-09-26 03:10",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0310-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.0307",
   "commit": "34088e9e",
   "date": "2026-09-26 03:08",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-2047/WhisperProbe.ipa",
   "zip": null,
   "note": "record-outside: Settings > What just happened, the phone's own log on the screen. For the Control Centre button test."
- },
- {
-  "build": "20260925.1910",
-  "commit": "068a944b",
-  "date": "2026-09-25 19:10",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-1910/WhisperProbe.ipa",
-  "zip": null,
-  "note": "onboarding: no price line on the speed page"
  }
 ]
