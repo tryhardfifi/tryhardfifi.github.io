@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0202",
+  "commit": "7baf780d",
+  "date": "2026-09-26 02:03",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0206-onb/WhisperProbe.ipa",
+  "zip": null,
+  "note": "onboarding: gooseneck microphone, and AirDrop to your Mac (Rocco's copy fixes)"
+ },
+ {
   "build": "20260926.0201",
   "commit": "41c50d5c",
   "date": "2026-09-26 02:02",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0139-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v14: no Done over the keyboard"
- },
- {
-  "build": "20260925.0131",
-  "commit": "11aa1107",
-  "date": "2026-09-25 01:32",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0131-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v13: the pencil focuses lower, the gear is a round glass button"
  }
 ]
