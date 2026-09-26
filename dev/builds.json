@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0307",
+  "commit": "34088e9e",
+  "date": "2026-09-26 03:08",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0307/WhisperProbe.ipa",
+  "zip": null,
+  "note": "onboarding: both clips stitched on the Mac page, and the empty feed says what to do"
+ },
+ {
   "build": "20260926.0306",
   "commit": "cb1f5d6a",
   "date": "2026-09-26 03:07",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-1910/WhisperProbe.ipa",
   "zip": null,
   "note": "onboarding: no price line on the speed page"
- },
- {
-  "build": "20260925.1721",
-  "commit": "2e799bda",
-  "date": "2026-09-25 17:22",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-1721/WhisperProbe.ipa",
-  "zip": null,
-  "note": "onboarding: one page turn, MO1 and a speed page, a notifications page, the You're all set ending"
  }
 ]
