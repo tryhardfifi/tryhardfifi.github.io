@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0318",
+  "commit": "cc07f68d",
+  "date": "2026-09-26 03:18",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0318-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.0309",
   "commit": "53944192",
   "date": "2026-09-26 03:10",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0202/WhisperProbe.ipa",
   "zip": null,
   "note": "record-outside: the Live Activity on brand (black, the red dot, a white Stop). Plus Settings > What just happened."
- },
- {
-  "build": "20260925.2046",
-  "commit": "c67621b1",
-  "date": "2026-09-25 20:47",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-2047/WhisperProbe.ipa",
-  "zip": null,
-  "note": "record-outside: Settings > What just happened, the phone's own log on the screen. For the Control Centre button test."
  }
 ]
