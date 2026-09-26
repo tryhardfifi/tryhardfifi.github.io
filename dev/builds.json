@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0306",
+  "commit": "cb1f5d6a",
+  "date": "2026-09-26 03:07",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0307-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.0258",
   "commit": "e0d241d3",
   "date": "2026-09-26 02:58",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-1721/WhisperProbe.ipa",
   "zip": null,
   "note": "onboarding: one page turn, MO1 and a speed page, a notifications page, the You're all set ending"
- },
- {
-  "build": "20260925.0300",
-  "commit": "9a76520a",
-  "date": "2026-09-25 03:01",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0300-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v21: a swipe never turns into a hold"
  }
 ]
