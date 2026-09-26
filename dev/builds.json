@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.1242",
+  "commit": "8296fa8b",
+  "date": "2026-09-26 12:43",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1243-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.1235",
   "commit": "f2d956d5",
   "date": "2026-09-26 12:36",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0224/WhisperProbe.ipa",
   "zip": null,
   "note": "ux: Enter beside the dot, trash on the other side, the pill down to Type again and Copy"
- },
- {
-  "build": "20260926.0219",
-  "commit": "35643fa3",
-  "date": "2026-09-26 02:19",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0219-ro/WhisperProbe.ipa",
-  "zip": null,
-  "note": "record-outside: the two AudioRecordingIntents leave the App Shortcuts list. The crash test."
  }
 ]
