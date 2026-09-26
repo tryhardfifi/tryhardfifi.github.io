@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.1227",
+  "commit": "3f6c4796",
+  "date": "2026-09-26 12:28",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1228-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": null
+ },
+ {
   "build": "20260926.1122",
   "commit": "5cb70a80",
   "date": "2026-09-26 11:24",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0213/WhisperProbe.ipa",
   "zip": null,
   "note": "onboarding: the Mac page plays the download, gooseneck microphone, AirDrop to your Mac"
- },
- {
-  "build": "20260926.0202",
-  "commit": "7baf780d",
-  "date": "2026-09-26 02:03",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0206-onb/WhisperProbe.ipa",
-  "zip": null,
-  "note": "onboarding: gooseneck microphone, and AirDrop to your Mac (Rocco's copy fixes)"
  }
 ]
