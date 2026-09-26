@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0224",
+  "commit": "544cff3c",
+  "date": "2026-09-26 02:24",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0224/WhisperProbe.ipa",
+  "zip": null,
+  "note": "ux: Enter beside the dot, trash on the other side, the pill down to Type again and Copy"
+ },
+ {
   "build": "20260926.0219",
   "commit": "35643fa3",
   "date": "2026-09-26 02:19",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0248-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v18: offline, a take buzzes once and not every five seconds; on main with 221 and 222"
- },
- {
-  "build": "20260925.0157",
-  "commit": "8ca4f69c",
-  "date": "2026-09-25 01:57",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0157-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v17: a card opening moves no words, every card takes its tap"
  }
 ]
