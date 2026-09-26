@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Sat, 26 Sep 2026 12:34:26 +0100</pubDate>
+            <sparkle:version>20260926.1137</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>No spinner at the cursor, ever. The notice goes even when the screen is locked.</p>
+]]></description>
+            <enclosure url="https://mobileoperator.com/builds/mac/mac-20260926-1227/Mobile-Operator.zip" length="3497756" type="application/octet-stream" sparkle:edSignature="wlDjVJZ0GcUuauVs3Z7oB9bNpIb9gSif28fJdk8hrbBVMItbQrmw3pitt47hECqBOs7j8UDq1XFn2IT/CrqPAg=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Thu, 24 Sep 2026 18:53:25 +0100</pubDate>
             <sparkle:version>20260924.1834</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
@@ -100,17 +111,6 @@
             <description><![CDATA[<p>Record for later on the iPhone, connects over a hotspot, History tab redone.</p>
 ]]></description>
             <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1339/Mobile-Operator.zip" length="2599633" type="application/octet-stream" sparkle:edSignature="Wa24iuL+H7RcG9WenOefUZQzPtLYd/1htj+FxmqWE85umpW0tkIXS1+0z2wIv4WuJgrwtYJ87AqQ623bJs4uBA=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Fri, 18 Sep 2026 13:23:11 +0200</pubDate>
-            <sparkle:version>20260918.1313</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Record for later on the iPhone (kept takes transcribed when the Mac is back), connects over a hotspot, History tab redone.</p>
-]]></description>
-            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/mac-20260918-1313/Mobile-Operator.zip" length="2599641" type="application/octet-stream" sparkle:edSignature="IuKqQKb73Ogw0qMRq/w8qLNwOQesO0oOuymiTTOCeCMhfql5vQAmtZwQSDjZBADmvpU3nFwX7/uuSkiic5szDg=="/>
         </item>
     </channel>
 </rss>
