@@ -1,5 +1,13 @@
 [
  {
+  "build": "20260926.0219",
+  "commit": "35643fa3",
+  "date": "2026-09-26 02:19",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0219-ro/WhisperProbe.ipa",
+  "zip": null,
+  "note": "record-outside: the two AudioRecordingIntents leave the App Shortcuts list. The crash test."
+ },
+ {
   "build": "20260926.0213",
   "commit": "e07374c6",
   "date": "2026-09-26 02:13",
@@ -86,13 +94,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0157-anim/WhisperProbe.ipa",
   "zip": null,
   "note": "chat/animations v17: a card opening moves no words, every card takes its tap"
- },
- {
-  "build": "20260925.0143",
-  "commit": "b6b42595",
-  "date": "2026-09-25 01:44",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260925-0143-anim/WhisperProbe.ipa",
-  "zip": null,
-  "note": "chat/animations v15: the dot stays under a held finger, the feed does not scroll"
  }
 ]
