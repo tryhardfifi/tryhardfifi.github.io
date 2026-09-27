@@ -1,5 +1,14 @@
 [
  {
+  "build": "20260927.201120",
+  "commit": "4b7d93a4",
+  "date": "2026-09-27 20:11",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260927-201120-4b7d93a4/WhisperProbe.ipa",
+  "zip": null,
+  "note": "ux: Enter always at the dot (dimmed with no Mac), the trash beside it, no card opened by a take",
+  "branch": "chat/ux"
+ },
+ {
   "build": "20260926.1250",
   "commit": "a6e4a268",
   "date": "2026-09-26 12:51",
@@ -87,13 +96,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0258/WhisperProbe.ipa",
   "zip": null,
   "note": "ux: a max size on the dot, a knock when a slide arms, no card opened by a take"
- },
- {
-  "build": "20260926.0251",
-  "commit": "ca5080c0",
-  "date": "2026-09-26 02:52",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0252-ro/WhisperProbe.ipa",
-  "zip": null,
-  "note": null
  }
 ]
