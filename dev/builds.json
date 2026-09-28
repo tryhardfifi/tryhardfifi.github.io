@@ -1,5 +1,14 @@
 [
  {
+  "build": "20260928.122036",
+  "commit": "5d9c4099",
+  "date": "2026-09-28 12:21",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260928-122036-5d9c4099/WhisperProbe.ipa",
+  "zip": null,
+  "note": "ux: hold anywhere near the dot to talk, and the swipe to delete no longer sticks",
+  "branch": "chat/ux"
+ },
+ {
   "build": "20260928.120052",
   "commit": "e64095c2",
   "date": "2026-09-28 12:01",
@@ -90,13 +99,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0310-ro/WhisperProbe.ipa",
   "zip": null,
   "note": null
- },
- {
-  "build": "20260926.0307",
-  "commit": "34088e9e",
-  "date": "2026-09-26 03:08",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0307/WhisperProbe.ipa",
-  "zip": null,
-  "note": "onboarding: both clips stitched on the Mac page, and the empty feed says what to do"
  }
 ]
