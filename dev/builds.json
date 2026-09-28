@@ -1,5 +1,14 @@
 [
  {
+  "build": "20260928.115525",
+  "commit": "658ea3ea",
+  "date": "2026-09-28 11:56",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260928-115525-658ea3ea/WhisperProbe.ipa",
+  "zip": null,
+  "note": "ux: the Enter reads as off with no Mac, and a press there stops the take before the pairing sheet",
+  "branch": "chat/ux"
+ },
+ {
   "build": "20260927.201120",
   "commit": "4b7d93a4",
   "date": "2026-09-27 20:11",
@@ -88,13 +97,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0307-ro/WhisperProbe.ipa",
   "zip": null,
   "note": null
- },
- {
-  "build": "20260926.0258",
-  "commit": "e0d241d3",
-  "date": "2026-09-26 02:58",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-0258/WhisperProbe.ipa",
-  "zip": null,
-  "note": "ux: a max size on the dot, a knock when a slide arms, no card opened by a take"
  }
 ]
