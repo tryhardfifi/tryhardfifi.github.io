@@ -4,6 +4,17 @@
         <title>Mobile Operator</title>
         <item>
             <title>0.2</title>
+            <pubDate>Tue, 29 Sep 2026 21:06:56 +0100</pubDate>
+            <sparkle:version>20260929.2106</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>dev 20260929.210549, commit 5b7284e9, branch main. Not a release.</p>
+]]></description>
+            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-210549-5b7284e9/Mobile-Operator.zip" length="2750221" type="application/octet-stream" sparkle:edSignature="zQG2kgfETcCpBw29vJfV71Z2pFZklt1GUUTZGQlx8LoUyq4ArvbLDQrRk9q1sNngIkm7Tr5ob24Uuwt9qF5ODA=="/>
+        </item>
+        <item>
+            <title>0.2</title>
             <pubDate>Tue, 29 Sep 2026 20:15:29 +0100</pubDate>
             <sparkle:version>20260929.2014</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
@@ -100,17 +111,6 @@
             <description><![CDATA[<p>dev 20260923.1136, commit 830e55a9. Not a release.</p>
 ]]></description>
             <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260923-1136/Mobile-Operator.zip" length="3644568" type="application/octet-stream" sparkle:edSignature="E5oxiTJl53s05XzLLPsokzZ/2BOdpKCJp66C8RnqnyJLpPFfzjDgVo76h/yQ5EHScoQSdMiMfM/920sc8kmQAA=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Wed, 23 Sep 2026 07:03:31 +0200</pubDate>
-            <sparkle:version>20260923.0700</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>dev 20260923.0658, commit 3c966c19. Not a release.</p>
-]]></description>
-            <enclosure url="https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260923-0658/Mobile-Operator.zip" length="3608580" type="application/octet-stream" sparkle:edSignature="lhPxtN/0CALRgNca9VkyhfhcrzFPnBQ7v1eKSi14CU1WOvE2q20GX6AzUl5Euu8Xxe+ZlLMJ6VrsMcX23LTPAg=="/>
         </item>
     </channel>
 </rss>

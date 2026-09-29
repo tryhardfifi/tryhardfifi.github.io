@@ -1,5 +1,14 @@
 [
  {
+  "build": "20260929.210549",
+  "commit": "5b7284e9",
+  "date": "2026-09-29 21:06",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-210549-5b7284e9/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-210549-5b7284e9/Mobile-Operator.zip",
+  "note": null,
+  "branch": "main"
+ },
+ {
   "build": "20260929.201405",
   "commit": "a039020e",
   "date": "2026-09-29 20:15",
@@ -91,14 +100,6 @@
   "commit": "3f6c4796",
   "date": "2026-09-26 12:28",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1228-ro/WhisperProbe.ipa",
-  "zip": null,
-  "note": null
- },
- {
-  "build": "20260926.1122",
-  "commit": "5cb70a80",
-  "date": "2026-09-26 11:24",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1123-ro/WhisperProbe.ipa",
   "zip": null,
   "note": null
  }
