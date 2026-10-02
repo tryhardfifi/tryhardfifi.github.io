@@ -2,5 +2,9 @@
  "dev": {
   "build": "20261001.204021",
   "note": null
+ },
+ "testflight": {
+  "build": "69",
+  "note": null
  }
 }
