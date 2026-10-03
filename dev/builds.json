@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261003.010704",
+  "commit": "c9b00862",
+  "date": "2026-10-03 01:08",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261003-010704-c9b00862/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261003-010704-c9b00862/Mobile-Operator.zip",
+  "note": null,
+  "branch": "main"
+ },
+ {
   "build": "20261001.204021",
   "commit": "9f30bfa3",
   "date": "2026-10-01 20:42",
@@ -96,13 +105,5 @@
   "zip": null,
   "note": "onboarding: tap the drawn sheet to get the real prompt, arrow outside the box, rounded button, no double Skip",
   "branch": "chat/onboarding-fixes"
- },
- {
-  "build": "20260926.1242",
-  "commit": "8296fa8b",
-  "date": "2026-09-26 12:43",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1243-ro/WhisperProbe.ipa",
-  "zip": null,
-  "note": null
  }
 ]
