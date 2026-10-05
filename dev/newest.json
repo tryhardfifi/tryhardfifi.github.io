@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261003.010704",
-  "note": null
+  "build": "20261005.104507",
+  "note": "Coordinator build of main for Filippo: widget, Action Button, band fixes (339), Live Activity, crash fix 342, analytics fix 340"
  },
  "testflight": {
   "build": "69",

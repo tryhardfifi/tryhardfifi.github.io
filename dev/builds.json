@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261005.104507",
+  "commit": "caea994d",
+  "date": "2026-10-05 10:46",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261005-104507-caea994d/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261005-104507-caea994d/Mobile-Operator.zip",
+  "note": "Coordinator build of main for Filippo: widget, Action Button, band fixes (339), Live Activity, crash fix 342, analytics fix 340",
+  "branch": "main"
+ },
+ {
   "build": "20261003.010704",
   "commit": "c9b00862",
   "date": "2026-10-03 01:08",
@@ -96,14 +105,5 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1251-ro/WhisperProbe.ipa",
   "zip": null,
   "note": null
- },
- {
-  "build": "20260926.1249",
-  "commit": "efe6c95a",
-  "date": "2026-09-26 12:49",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1249/WhisperProbe.ipa",
-  "zip": null,
-  "note": "onboarding: tap the drawn sheet to get the real prompt, arrow outside the box, rounded button, no double Skip",
-  "branch": "chat/onboarding-fixes"
  }
 ]
