@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261006.070831",
+  "commit": "5d3cac8a",
+  "date": "2026-10-06 07:09",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261006-070831-5d3cac8a/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261006-070831-5d3cac8a/Mobile-Operator.zip",
+  "note": "The widget: types on the Mac when you stop it, says Tap to talk / Tap to send, new design; Live Activity smaller",
+  "branch": "main"
+ },
+ {
   "build": "20261006.024930",
   "commit": "75cdb1fd",
   "date": "2026-10-06 02:51",
@@ -96,15 +105,6 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260928-115525-658ea3ea/WhisperProbe.ipa",
   "zip": null,
   "note": "ux: the Enter reads as off with no Mac, and a press there stops the take before the pairing sheet",
-  "branch": "chat/ux"
- },
- {
-  "build": "20260927.201120",
-  "commit": "4b7d93a4",
-  "date": "2026-09-27 20:11",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260927-201120-4b7d93a4/WhisperProbe.ipa",
-  "zip": null,
-  "note": "ux: Enter always at the dot (dimmed with no Mac), the trash beside it, no card opened by a take",
   "branch": "chat/ux"
  }
 ]

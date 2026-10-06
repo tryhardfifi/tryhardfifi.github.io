@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261006.024930",
-  "note": "Everything since your last test: widget, Action Button, mic row, pairing fix, scroll, forget popup, calm numbers, icon picker gone, Data tab smaller, crash fix"
+  "build": "20261006.070831",
+  "note": "The widget: types on the Mac when you stop it, says Tap to talk / Tap to send, new design; Live Activity smaller"
  },
  "testflight": {
   "build": "69",
