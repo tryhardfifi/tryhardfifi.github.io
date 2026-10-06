@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261006.024930",
+  "commit": "75cdb1fd",
+  "date": "2026-10-06 02:51",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261006-024930-75cdb1fd/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261006-024930-75cdb1fd/Mobile-Operator.zip",
+  "note": "Everything since your last test: widget, Action Button, mic row, pairing fix, scroll, forget popup, calm numbers, icon picker gone, Data tab smaller, crash fix",
+  "branch": "main"
+ },
+ {
   "build": "20261005.104507",
   "commit": "caea994d",
   "date": "2026-10-05 10:46",
@@ -97,13 +106,5 @@
   "zip": null,
   "note": "ux: Enter always at the dot (dimmed with no Mac), the trash beside it, no card opened by a take",
   "branch": "chat/ux"
- },
- {
-  "build": "20260926.1250",
-  "commit": "a6e4a268",
-  "date": "2026-09-26 12:51",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260926-1251-ro/WhisperProbe.ipa",
-  "zip": null,
-  "note": null
  }
 ]

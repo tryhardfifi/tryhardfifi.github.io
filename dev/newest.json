@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261005.104507",
-  "note": "Coordinator build of main for Filippo: widget, Action Button, band fixes (339), Live Activity, crash fix 342, analytics fix 340"
+  "build": "20261006.024930",
+  "note": "Everything since your last test: widget, Action Button, mic row, pairing fix, scroll, forget popup, calm numbers, icon picker gone, Data tab smaller, crash fix"
  },
  "testflight": {
   "build": "69",
