@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261007.163831",
+  "commit": "3be7889f",
+  "date": "2026-10-07 16:40",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261007-163831-3be7889f/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261007-163831-3be7889f/Mobile-Operator.zip",
+  "note": "Test build: UX lab and icons, with today's fixes. Not the product; the next dev build puts it back.",
+  "branch": "test/388"
+ },
+ {
   "build": "20261007.104212",
   "commit": "4761af52",
   "date": "2026-10-07 10:43",
@@ -95,15 +104,6 @@
   "date": "2026-09-29 20:15",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-201405-a039020e/WhisperProbe.ipa",
   "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-201405-a039020e/Mobile-Operator.zip",
-  "note": null,
-  "branch": "main"
- },
- {
-  "build": "20260929.173250",
-  "commit": "ecfe0911",
-  "date": "2026-09-29 17:34",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-173250-ecfe0911/WhisperProbe.ipa",
-  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-173250-ecfe0911/Mobile-Operator.zip",
   "note": null,
   "branch": "main"
  }

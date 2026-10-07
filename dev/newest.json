@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261007.104212",
-  "note": "UX test build, not the product, with the music fix and the lost-take fix; the next dev build puts the product back"
+  "build": "20261007.163831",
+  "note": "Test build: UX lab and icons, with today's fixes. Not the product; the next dev build puts it back."
  },
  "testflight": {
   "build": "69",
