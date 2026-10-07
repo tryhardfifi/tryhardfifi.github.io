@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261007.051431",
-  "note": "Music on a Bluetooth speaker keeps playing when you open MO (376). Talk to Filippo with his photo (372). Mic row plain (368), onboarding Skip spacing (367), widget redesign (370), scrolling, Settings, pairing fixes since 2026-10-05."
+  "build": "20261007.061154",
+  "note": "icon test build, not the product; the next dev build puts the icon back"
  },
  "testflight": {
   "build": "69",

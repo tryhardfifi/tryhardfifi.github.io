@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261007.061154",
+  "commit": "e1ce6cf2",
+  "date": "2026-10-07 06:14",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261007-061154-e1ce6cf2/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261007-061154-e1ce6cf2/Mobile-Operator.zip",
+  "note": "icon test build, not the product; the next dev build puts the icon back",
+  "branch": "brief/380"
+ },
+ {
   "build": "20261007.051431",
   "commit": "fb014ded",
   "date": "2026-10-07 05:15",
@@ -96,15 +105,6 @@
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260928-122036-5d9c4099/WhisperProbe.ipa",
   "zip": null,
   "note": "ux: hold anywhere near the dot to talk, and the swipe to delete no longer sticks",
-  "branch": "chat/ux"
- },
- {
-  "build": "20260928.120052",
-  "commit": "e64095c2",
-  "date": "2026-09-28 12:01",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260928-120052-e64095c2/WhisperProbe.ipa",
-  "zip": null,
-  "note": "ux: the swipe to delete no longer sticks to the next take",
   "branch": "chat/ux"
  }
 ]
