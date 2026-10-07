@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261006.070831",
-  "note": "The widget: types on the Mac when you stop it, says Tap to talk / Tap to send, new design; Live Activity smaller"
+  "build": "20261007.051431",
+  "note": "Music on a Bluetooth speaker keeps playing when you open MO (376). Talk to Filippo with his photo (372). Mic row plain (368), onboarding Skip spacing (367), widget redesign (370), scrolling, Settings, pairing fixes since 2026-10-05."
  },
  "testflight": {
   "build": "69",
