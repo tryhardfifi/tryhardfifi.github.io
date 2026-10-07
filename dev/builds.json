@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261007.104212",
+  "commit": "4761af52",
+  "date": "2026-10-07 10:43",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261007-104212-4761af52/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261007-104212-4761af52/Mobile-Operator.zip",
+  "note": "UX test build, not the product, with the music fix and the lost-take fix; the next dev build puts the product back",
+  "branch": "HEAD"
+ },
+ {
   "build": "20261007.061154",
   "commit": "e1ce6cf2",
   "date": "2026-10-07 06:14",
@@ -97,14 +106,5 @@
   "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-173250-ecfe0911/Mobile-Operator.zip",
   "note": null,
   "branch": "main"
- },
- {
-  "build": "20260928.122036",
-  "commit": "5d9c4099",
-  "date": "2026-09-28 12:21",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260928-122036-5d9c4099/WhisperProbe.ipa",
-  "zip": null,
-  "note": "ux: hold anywhere near the dot to talk, and the swipe to delete no longer sticks",
-  "branch": "chat/ux"
  }
 ]
