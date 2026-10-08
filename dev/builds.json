@@ -1,5 +1,14 @@
 [
  {
+  "build": "20261008.080805",
+  "commit": "78fc0e6d",
+  "date": "2026-10-08 08:10",
+  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261008-080805-78fc0e6d/WhisperProbe.ipa",
+  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20261008-080805-78fc0e6d/Mobile-Operator.zip",
+  "note": "Test build: today's main (new icon, Lock Screen tutorial, Control Centre icon, edit removed, last night's fixes) plus the UX lab and the icon picker. Not the product; the next dev build from main puts it back.",
+  "branch": "test/lab-main"
+ },
+ {
   "build": "20261007.163831",
   "commit": "3be7889f",
   "date": "2026-10-07 16:40",
@@ -95,15 +104,6 @@
   "date": "2026-09-29 21:06",
   "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-210549-5b7284e9/WhisperProbe.ipa",
   "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-210549-5b7284e9/Mobile-Operator.zip",
-  "note": null,
-  "branch": "main"
- },
- {
-  "build": "20260929.201405",
-  "commit": "a039020e",
-  "date": "2026-09-29 20:15",
-  "ipa": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-201405-a039020e/WhisperProbe.ipa",
-  "zip": "https://github.com/tryhardfifi/tryhardfifi.github.io/releases/download/dev-20260929-201405-a039020e/Mobile-Operator.zip",
   "note": null,
   "branch": "main"
  }

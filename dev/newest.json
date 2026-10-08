@@ -1,7 +1,7 @@
 {
  "dev": {
-  "build": "20261007.163831",
-  "note": "Test build: UX lab and icons, with today's fixes. Not the product; the next dev build puts it back."
+  "build": "20261008.080805",
+  "note": "Test build: today's main (new icon, Lock Screen tutorial, Control Centre icon, edit removed, last night's fixes) plus the UX lab and the icon picker. Not the product; the next dev build from main puts it back."
  },
  "testflight": {
   "build": "69",
